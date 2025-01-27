@@ -1,5 +1,5 @@
 public class AsciiValue {
-
+ code updation 
     public static void main(String[] args) {
 
         char ch = 'a';
@@ -11,3 +11,8 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+1234
+4567
+435
+343
+454
